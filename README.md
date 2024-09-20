@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **face recognition system**
 
-- 🌱 I’m currently learning **Numpy, Padas,PowerBI**
+- 🌱 I’m currently learning **Ms-Excel**
 
 - 💬 Ask me about **Python, Sql**
 
