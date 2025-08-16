@@ -8,9 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **face recognition system**
-
-- 🌱 I’m currently learning **Ms-Excel**
+- 🔭 I’m currently working on **Machine Learning**
 
 - 💬 Ask me about **Python, Sql**
 
